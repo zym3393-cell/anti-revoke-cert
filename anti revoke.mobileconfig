@@ -292,9 +292,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Finally updated! Made by: Khoindvn, Tweaked by: Toasty.dev. STOP FORKING MY REPO TO REMOVE THIS, I GET NOTIFIED AND WILL CALL YOU OUT.</string>
+	<string>norevoke.</string>
 	<key>PayloadDisplayName</key>
-	<string>Khomod DNS</string>
+	<string>MonoRom DNS</string>
 	<key>PayloadIdentifier</key>
 	<string>khoindvn.cloudflare.warp.com.profile</string>
 	<key>PayloadOrganization</key>
